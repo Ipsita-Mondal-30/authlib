@@ -20,5 +20,6 @@ venv/
 *.egg
 .idea/
 uv.lock
-.env
 coverage.xml
+config.bat
+node_modules
